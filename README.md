@@ -1,4 +1,4 @@
-#Wholesaler Integration
+# Wholesaler Integration
 
 ## Your Task
 Your task is building a small peace of software, which is able to verify and interpret assortment and product 
